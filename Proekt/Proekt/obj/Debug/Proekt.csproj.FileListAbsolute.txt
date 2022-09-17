@@ -1,0 +1,36 @@
+c:\users\petar\documents\visual studio 2013\Projects\Proekt\Proekt\bin\Debug\Proekt.exe.config
+c:\users\petar\documents\visual studio 2013\Projects\Proekt\Proekt\bin\Debug\Proekt.exe
+c:\users\petar\documents\visual studio 2013\Projects\Proekt\Proekt\bin\Debug\Proekt.pdb
+c:\users\petar\documents\visual studio 2013\Projects\Proekt\Proekt\obj\Debug\Proekt.csprojResolveAssemblyReference.cache
+c:\users\petar\documents\visual studio 2013\Projects\Proekt\Proekt\obj\Debug\Proekt.Form1.resources
+c:\users\petar\documents\visual studio 2013\Projects\Proekt\Proekt\obj\Debug\Proekt.Properties.Resources.resources
+c:\users\petar\documents\visual studio 2013\Projects\Proekt\Proekt\obj\Debug\Proekt.Register.resources
+c:\users\petar\documents\visual studio 2013\Projects\Proekt\Proekt\obj\Debug\Proekt.csproj.GenerateResource.Cache
+c:\users\petar\documents\visual studio 2013\Projects\Proekt\Proekt\obj\Debug\Proekt.exe
+c:\users\petar\documents\visual studio 2013\Projects\Proekt\Proekt\obj\Debug\Proekt.pdb
+C:\Users\Petar\Documents\Visual Studio 2013\Projects\Proekt\Proekt\obj\Debug\Proekt.LoginSuccess.resources
+C:\Users\teodorach\Desktop\Proekt Tim3\Proekt-Draft\Proekt\Proekt\bin\Debug\Proekt.exe.config
+C:\Users\teodorach\Desktop\Proekt Tim3\Proekt-Draft\Proekt\Proekt\obj\Debug\Proekt.exe
+C:\Users\teodorach\Desktop\Proekt Tim3\Proekt-Draft\Proekt\Proekt\obj\Debug\Proekt.pdb
+C:\Users\teodorach\Desktop\Proekt Tim3\Proekt-Draft\Proekt\Proekt\bin\Debug\Proekt.exe
+C:\Users\teodorach\Desktop\Proekt Tim3\Proekt-Draft\Proekt\Proekt\obj\Debug\Proekt.csprojResolveAssemblyReference.cache
+C:\Users\teodorach\Desktop\Proekt Tim3\Proekt-Draft\Proekt\Proekt\obj\Debug\Proekt.Form1.resources
+C:\Users\teodorach\Desktop\Proekt Tim3\Proekt-Draft\Proekt\Proekt\obj\Debug\Proekt.LoginSuccess.resources
+C:\Users\teodorach\Desktop\Proekt Tim3\Proekt-Draft\Proekt\Proekt\obj\Debug\Proekt.Properties.Resources.resources
+C:\Users\teodorach\Desktop\Proekt Tim3\Proekt-Draft\Proekt\Proekt\obj\Debug\Proekt.Register.resources
+C:\Users\teodorach\Desktop\Proekt Tim3\Proekt-Draft\Proekt\Proekt\obj\Debug\Proekt.csproj.GenerateResource.Cache
+C:\Users\teodorach\Desktop\Proekt Tim3\Proekt-Draft\Proekt\Proekt\bin\Debug\Proekt.pdb
+C:\Users\teodorach\Desktop\Proekt Tim3\Proekt-Draft\Proekt\Proekt\obj\Debug\Proekt.PrijavaVakcina.resources
+D:\Petar\Mikrosam Proekt\Proekt\Proekt\bin\Debug\Proekt.exe.config
+D:\Petar\Mikrosam Proekt\Proekt\Proekt\obj\Debug\Proekt.pdb
+D:\Petar\Mikrosam Proekt\Proekt\Proekt\bin\Debug\Proekt.exe
+D:\Petar\Mikrosam Proekt\Proekt\Proekt\bin\Debug\Proekt.pdb
+D:\Petar\Mikrosam Proekt\Proekt\Proekt\obj\Debug\Proekt.csprojResolveAssemblyReference.cache
+D:\Petar\Mikrosam Proekt\Proekt\Proekt\obj\Debug\Proekt.Form1.resources
+D:\Petar\Mikrosam Proekt\Proekt\Proekt\obj\Debug\Proekt.LoginSuccess.resources
+D:\Petar\Mikrosam Proekt\Proekt\Proekt\obj\Debug\Proekt.PrijavaVakcina.resources
+D:\Petar\Mikrosam Proekt\Proekt\Proekt\obj\Debug\Proekt.Properties.Resources.resources
+D:\Petar\Mikrosam Proekt\Proekt\Proekt\obj\Debug\Proekt.Register.resources
+D:\Petar\Mikrosam Proekt\Proekt\Proekt\obj\Debug\Proekt.csproj.GenerateResource.Cache
+D:\Petar\Mikrosam Proekt\Proekt\Proekt\obj\Debug\Proekt.exe
+D:\Petar\Mikrosam Proekt\Proekt\Proekt\obj\Debug\Proekt.PrijavaKarantin.resources

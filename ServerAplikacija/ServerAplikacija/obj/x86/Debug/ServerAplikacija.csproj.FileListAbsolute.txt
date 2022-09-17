@@ -1,0 +1,9 @@
+c:\users\aleksandarg.akademija\documents\visual studio 2010\Projects\ServerAplikacija\ServerAplikacija\bin\Debug\ServerAplikacija.exe
+c:\users\aleksandarg.akademija\documents\visual studio 2010\Projects\ServerAplikacija\ServerAplikacija\bin\Debug\ServerAplikacija.pdb
+c:\users\aleksandarg.akademija\documents\visual studio 2010\Projects\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.Form1.resources
+c:\users\aleksandarg.akademija\documents\visual studio 2010\Projects\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.Properties.Resources.resources
+c:\users\aleksandarg.akademija\documents\visual studio 2010\Projects\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.csproj.GenerateResource.Cache
+c:\users\aleksandarg.akademija\documents\visual studio 2010\Projects\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.exe
+c:\users\aleksandarg.akademija\documents\visual studio 2010\Projects\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.pdb
+C:\Users\aleksandarg.AKADEMIJA\Documents\Visual Studio 2010\Projects\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.csprojResolveAssemblyReference.cache
+D:\Petar\Mikrosam Proekt\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.pdb

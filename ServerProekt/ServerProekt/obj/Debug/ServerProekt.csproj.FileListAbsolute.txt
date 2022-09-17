@@ -1,0 +1,18 @@
+c:\users\petar\documents\visual studio 2013\Projects\ServerProekt\ServerProekt\bin\Debug\ServerProekt.exe.config
+c:\users\petar\documents\visual studio 2013\Projects\ServerProekt\ServerProekt\bin\Debug\ServerProekt.exe
+c:\users\petar\documents\visual studio 2013\Projects\ServerProekt\ServerProekt\bin\Debug\ServerProekt.pdb
+c:\users\petar\documents\visual studio 2013\Projects\ServerProekt\ServerProekt\obj\Debug\ServerProekt.exe
+c:\users\petar\documents\visual studio 2013\Projects\ServerProekt\ServerProekt\obj\Debug\ServerProekt.pdb
+c:\users\petar\documents\visual studio 2013\Projects\ServerProekt\ServerProekt\obj\Debug\ServerProekt.csprojResolveAssemblyReference.cache
+C:\Users\teodorach\Desktop\Proekt Tim3\Proekt-Draft\ServerProekt\ServerProekt\bin\Debug\ServerProekt.exe.config
+C:\Users\teodorach\Desktop\Proekt Tim3\Proekt-Draft\ServerProekt\ServerProekt\obj\Debug\ServerProekt.exe
+C:\Users\teodorach\Desktop\Proekt Tim3\Proekt-Draft\ServerProekt\ServerProekt\obj\Debug\ServerProekt.pdb
+C:\Users\teodorach\Desktop\Proekt Tim3\Proekt-Draft\ServerProekt\ServerProekt\bin\Debug\ServerProekt.exe
+C:\Users\teodorach\Desktop\Proekt Tim3\Proekt-Draft\ServerProekt\ServerProekt\bin\Debug\ServerProekt.pdb
+C:\Users\teodorach\Desktop\Proekt Tim3\Proekt-Draft\ServerProekt\ServerProekt\obj\Debug\ServerProekt.csprojResolveAssemblyReference.cache
+D:\Petar\Mikrosam Proekt\ServerProekt\ServerProekt\bin\Debug\ServerProekt.exe.config
+D:\Petar\Mikrosam Proekt\ServerProekt\ServerProekt\obj\Debug\ServerProekt.pdb
+D:\Petar\Mikrosam Proekt\ServerProekt\ServerProekt\bin\Debug\ServerProekt.exe
+D:\Petar\Mikrosam Proekt\ServerProekt\ServerProekt\bin\Debug\ServerProekt.pdb
+D:\Petar\Mikrosam Proekt\ServerProekt\ServerProekt\obj\Debug\ServerProekt.csprojResolveAssemblyReference.cache
+D:\Petar\Mikrosam Proekt\ServerProekt\ServerProekt\obj\Debug\ServerProekt.exe
